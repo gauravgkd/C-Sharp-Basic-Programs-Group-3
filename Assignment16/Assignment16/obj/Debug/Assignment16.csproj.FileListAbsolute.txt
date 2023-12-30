@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Assignments\Assignment16\Assignment16\bin\Debug\Assignment16.exe.config
+C:\Users\HP\source\repos\Assignments\Assignment16\Assignment16\bin\Debug\Assignment16.exe
+C:\Users\HP\source\repos\Assignments\Assignment16\Assignment16\bin\Debug\Assignment16.pdb
+C:\Users\HP\source\repos\Assignments\Assignment16\Assignment16\obj\Debug\Assignment16.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Assignments\Assignment16\Assignment16\obj\Debug\Assignment16.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Assignments\Assignment16\Assignment16\obj\Debug\Assignment16.exe
+C:\Users\HP\source\repos\Assignments\Assignment16\Assignment16\obj\Debug\Assignment16.pdb
